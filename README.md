@@ -4,4 +4,4 @@
 * JDK 7
 * Java Application
 
-[Jean-francois Nepton](http://sqasolution.com)
+[Jean-francois Nepton](http://jfbuilds.com)
